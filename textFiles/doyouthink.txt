@@ -1,0 +1,9 @@
+What do you think
+Girl: Hey --NAME-- , can I ask you a question? And be honest with me yea?
+Girl: Do you think...I've gotten fat?
+--options--
+1. It's probably just water retention, don't worry about it, it'll go away soon.
+2. Nah I'm sure you've just gained muscle mass from being so fitspro.
+3. Lol yea no shit.
+--end--
+Girl: I see, hmm...

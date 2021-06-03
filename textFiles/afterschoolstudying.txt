@@ -1,0 +1,9 @@
+After school studying
+Girl: Argh I can't take this anymore! Exams are so stressful, I feel like I'm going to combust!
+Girl: How --NAME-- how...I really don't know how you do it sia...
+--options--
+1. Why not study together? I can help explain stuff you don't understand.
+2. I think you need a good study break, let's go and shoot some hoops to destress.
+3. Oh man, jiayous. I myself need to study on my own to buck up.
+--end--
+Girl: Alrites then!

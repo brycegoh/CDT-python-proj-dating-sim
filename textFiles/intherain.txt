@@ -1,0 +1,9 @@
+In the rain
+Girl: Oh no, I didn't know it's gonna rain tonight...
+Girl: --NAME-- what are we gonna do now?
+--options--
+1. I checked the weather forecast earlier and brought along an umbrella, we can share it!
+2. Rain? This is a chance to have some fun! Let's go and play in the rain, come on!
+3. Well time to just YOLO our way back and pray we don't get sick.
+--end--
+Girl: If you say so...
